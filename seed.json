@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+    "username": "yoyoWizard2004",
+    "password": "*****",
+    "email": "yoyoWizard2004@gmail.com",
+    "age": 32,
+    "gender": "f",
+    "status": "married",
+    "children": [{
+      "age": 9,
+      "gender": "f"
+    }, {
+      "age": 4,
+      "gender": "m"
+    }
+    ],
+    "location": "PDX",
+    "likes": [],
+    "matches": [],
+    "notMatch": []
+    },
+    {
+      "username":"XxBest_daDxX",
+      "password": "*********************",
+      "email": "dad@best.com",
+      "age": 43,
+      "gender": "m",
+      "status": "single",
+      "children": [{
+        "age": 9,
+        "gender":"f"
+      }],
+      "location": "PDX",
+      "likes": [],
+      "matches": [],
+      "notMatch": []
+    },
+    {
+      "username":"soccermom82",
+      "password": "*********",
+      "email": "soccermom82_lisa@yahoo.com",
+      "age": 35,
+      "gender": "f",
+      "status": "single",
+      "children": [{
+        "age": 9,
+        "gender":"m"
+      },{
+        "age": 9,
+        "gender":"m"
+      },{
+        "age": 3,
+        "gender":"f"
+      }],
+      "location": "PDX",
+      "likes": [],
+      "matches": [],
+      "notMatch": []
+    }, {
+      "username":"iWishThisWasTinder",
+      "password": "*****",
+      "email": "swipebot@gmail.com",
+      "age": 25,
+      "gender": "f",
+      "status": "single",
+      "children": [{
+        "age": 9,
+        "gender":"m"
+      },{
+        "age": 7,
+        "gender":"f"
+      },{
+        "age": 2,
+        "gender":"m"
+      }],
+      "location": "PDX",
+      "likes": [],
+      "matches": [],
+      "notMatch": []
+    }
+  ]
+}
