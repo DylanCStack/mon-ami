@@ -11,6 +11,7 @@ import { ProfileComponent } from './profile/profile.component';
 import { routing } from './app.routing';
 import { masterFirebaseConfig } from './api-keys';
 import { AngularFireModule } from 'angularfire2';
+import { NewUserComponent } from './new-user/new-user.component';
 
 export const firebaseConfig = {
   apiKey: masterFirebaseConfig.apiKey,
@@ -25,7 +26,8 @@ export const firebaseConfig = {
     HomeComponent,
     AboutComponent,
     ContactComponent,
-    ProfileComponent
+    ProfileComponent,
+    NewUserComponent
   ],
   imports: [
     BrowserModule,

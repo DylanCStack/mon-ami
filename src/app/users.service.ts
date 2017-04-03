@@ -13,6 +13,8 @@ export class UsersService {
   getUsers(){
     return this.users;
   }
-  
 
+  saveUser(user){
+    this.users.push(user);
+  }
 }
