@@ -17,4 +17,8 @@ export class UsersService {
   saveUser(user){
     this.users.push(user);
   }
+
+  getUserById(key: string) {
+    return this.angularFire.database.object('users/' + key);
+  }
 }

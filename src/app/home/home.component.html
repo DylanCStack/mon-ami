@@ -8,7 +8,7 @@
 <button (click)="addNewUser()">Sign up</button>
 <h1>Local Users</h1>
 <div class="well" *ngFor="let user of users">
-  <h3>{{user.username}}</h3>
+  <h3 (click)="goToProfile(user)">{{user.username}}</h3>
   <p>{{user.age}}/{{user.gender}}/{{user.location}}</p>
   <ul>
     <li *ngFor="let child of user.children">{{child.age}}/{{child.gender}}</li>
