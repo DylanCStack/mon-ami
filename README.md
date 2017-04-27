@@ -1,6 +1,6 @@
 # Mon Ami
 
-### Authored by Dylan Stackhouse
+### Authored by Dylan Stackhouse and Xia Amendolara
 ## Description
 The beginnings of a social media site for parents with similar interests to talk and introduce their children. Created to test angular 2 and firebase.
 
@@ -40,4 +40,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 
-### Copyright (c) 2017 Dylan Stackhouse
+### Copyright (c) 2017 Dylan Stackhouse & Xia Amendolara 
